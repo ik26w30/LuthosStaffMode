@@ -1,0 +1,9 @@
+name: StaffMode
+version: 0.1
+main: org.ik26w30.luthos.staffmode.StaffMode
+author: Ik26w30
+description: idk
+commands:
+  staffmode:
+    aliases:
+      - sm

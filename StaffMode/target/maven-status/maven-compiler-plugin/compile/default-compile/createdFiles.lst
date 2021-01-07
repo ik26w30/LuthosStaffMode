@@ -1,0 +1,8 @@
+org\ik26w30\luthos\staffmode\StaffMode.class
+org\ik26w30\luthos\staffmode\listeners\InventoryListener.class
+org\ik26w30\luthos\staffmode\utils\gui\TpGui.class
+org\ik26w30\luthos\staffmode\commands\StaffModeCommand.class
+org\ik26w30\luthos\staffmode\listeners\PlaceListener.class
+org\ik26w30\luthos\staffmode\listeners\InteractListener.class
+org\ik26w30\luthos\staffmode\utils\ItemStaffMode.class
+org\ik26w30\luthos\staffmode\listeners\DropListener.class
